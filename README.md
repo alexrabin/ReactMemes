@@ -1,3 +1,5 @@
+# React Memes
+This is a react app that generates memes from the wholesomememes subreddit.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

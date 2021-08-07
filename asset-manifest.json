@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/react-memes/static/css/main.c1d5b617.chunk.css",
-    "main.js": "/react-memes/static/js/main.3f2f8a91.chunk.js",
-    "main.js.map": "/react-memes/static/js/main.3f2f8a91.chunk.js.map",
-    "runtime-main.js": "/react-memes/static/js/runtime-main.7ae30c0b.js",
-    "runtime-main.js.map": "/react-memes/static/js/runtime-main.7ae30c0b.js.map",
-    "static/js/2.b129fd79.chunk.js": "/react-memes/static/js/2.b129fd79.chunk.js",
-    "static/js/2.b129fd79.chunk.js.map": "/react-memes/static/js/2.b129fd79.chunk.js.map",
-    "static/js/3.f5cfde8e.chunk.js": "/react-memes/static/js/3.f5cfde8e.chunk.js",
-    "static/js/3.f5cfde8e.chunk.js.map": "/react-memes/static/js/3.f5cfde8e.chunk.js.map",
+    "main.css": "/react-memes/static/css/main.44598002.chunk.css",
+    "main.js": "/react-memes/static/js/main.e56b14eb.chunk.js",
+    "main.js.map": "/react-memes/static/js/main.e56b14eb.chunk.js.map",
+    "runtime-main.js": "/react-memes/static/js/runtime-main.dfc5e3ab.js",
+    "runtime-main.js.map": "/react-memes/static/js/runtime-main.dfc5e3ab.js.map",
+    "static/css/2.da1eef19.chunk.css": "/react-memes/static/css/2.da1eef19.chunk.css",
+    "static/js/2.4f0b9944.chunk.js": "/react-memes/static/js/2.4f0b9944.chunk.js",
+    "static/js/2.4f0b9944.chunk.js.map": "/react-memes/static/js/2.4f0b9944.chunk.js.map",
+    "static/js/3.d36c7d4b.chunk.js": "/react-memes/static/js/3.d36c7d4b.chunk.js",
+    "static/js/3.d36c7d4b.chunk.js.map": "/react-memes/static/js/3.d36c7d4b.chunk.js.map",
     "index.html": "/react-memes/index.html",
-    "static/css/main.c1d5b617.chunk.css.map": "/react-memes/static/css/main.c1d5b617.chunk.css.map",
-    "static/js/2.b129fd79.chunk.js.LICENSE.txt": "/react-memes/static/js/2.b129fd79.chunk.js.LICENSE.txt"
+    "static/css/2.da1eef19.chunk.css.map": "/react-memes/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.44598002.chunk.css.map": "/react-memes/static/css/main.44598002.chunk.css.map",
+    "static/js/2.4f0b9944.chunk.js.LICENSE.txt": "/react-memes/static/js/2.4f0b9944.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ae30c0b.js",
-    "static/js/2.b129fd79.chunk.js",
-    "static/css/main.c1d5b617.chunk.css",
-    "static/js/main.3f2f8a91.chunk.js"
+    "static/js/runtime-main.dfc5e3ab.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.4f0b9944.chunk.js",
+    "static/css/main.44598002.chunk.css",
+    "static/js/main.e56b14eb.chunk.js"
   ]
 }

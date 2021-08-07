@@ -1,5 +1,8 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
+import { Container, Button, Navbar, Nav} from 'react-bootstrap';
+
 class App extends React.Component{
   constructor(props) {
     super(props);
@@ -13,17 +16,23 @@ class App extends React.Component{
       const { error, isLoaded, imageURL } = this.state;
       
       return (
-        <div className="App">
-          <header className="App-header">
-            <h2>React Memes</h2>
+        <div>
+          <Navbar bg="dark" expand="lg">
+            <Container>
+            <Navbar.Brand className="text-light">React-Memes</Navbar.Brand>
+            </Container>
+          </Navbar>
+          <Container className="text-center" style={{marginTop: 20}}>
             {error && <div>Error: {error.message}</div>}
             {!isLoaded && <div>Loading...</div>}
             {imageURL && <img src={imageURL} alt='meme'/>}
-            <button onClick={this.getNewMeme.bind(this)}>New Meme</button>
-          </header>
+            <Button variant="outline-dark" size="lg" style={{margin: "1rem"}} onClick={this.getNewMeme.bind(this)}>New Meme</Button>
+          </Container>
         </div>
       );
     }
+
+
     componentDidMount(){
       this.getNewMeme();
     }
